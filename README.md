@@ -8,7 +8,7 @@
 
 ---
 
-## 💻Stacks
+## 💻 Stacks
 <code><img width="40px" src="https://icongr.am/devicon/c-original.svg" title="The C Programming Language"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" title="The C++ Programming Language"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python"/></code>
@@ -27,7 +27,7 @@
 
 ---
 
-## 📊Statistics
+## 📊 Statistics
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LTC-117&show_icons=true&theme=transparent&count_private=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LTC-117&layout=compact&langs_count=7&theme=transparent"/>
@@ -35,7 +35,7 @@
 
 ---
 
-## ✉️Contact me
+## ✉️ Contact me
 
 <code><img width="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" title="Linkedin"/> [LinkedIn](https://www.linkedin.com/in/lucas-tentoni-costa-b05837321/)</code>
 <code><img width="20px" src="https://icongr.am/fontawesome/envelope-o.svg?size128&color=ffffff" title="Email"/> [Email](lucastentoni@gmail.com)</code>
