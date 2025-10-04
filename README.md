@@ -1,4 +1,6 @@
-<h1 align="center"> LTC-117 </h1>
+<h1 align="center">
+    LTC-117
+</h1>
 
 <p align="center">
     Embedded Systems | Graphics Programming | OS Development | Backend Development
