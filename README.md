@@ -1,4 +1,4 @@
-<h1 align="center"> LTC-117 🦈</h1>
+<h1 align="center"> LTC-117 ![halo master chief emoji via emojis.com](https://imgproxy.attic.sh/insecure/f:png/h:128/w:128/plain/https://attic.sh/jkx6jxy6u5lwki4fswvt4ghluy4j)</h1>
 
 <p align="center">
     Embedded Systems | Graphics Programming | OS Development | Backend Development
