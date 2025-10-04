@@ -36,4 +36,4 @@
 ## Contact me
 
 <code><img width="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" title="Linkedin"/> [LinkedIn](https://www.linkedin.com/in/lucas-tentoni-costa-b05837321/)</code>
-<code><img width="20px" src="https://icongr.am/fontawesome/envelope-o.svg" color="0xffffff" title="Email"/> [Email](lucastentoni@gmail.com)</code>
+<code><img width="20px" src="https://icongr.am/fontawesome/envelope-o.svg?size128&color=ffffff" title="Email"/> [Email](lucastentoni@gmail.com)</code>
