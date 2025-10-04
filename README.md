@@ -21,7 +21,6 @@
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/qt/qt-original.svg" title="Qt"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" title="Django"/></code>
 
-
 ---
 
 ## Statistics
@@ -34,3 +33,4 @@
 
 ## Contact me
 
+<code><img width="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" title="Django"/> [LinkedIn](https://www.linkedin.com/in/lucas-tentoni-costa-b05837321/)</code>
