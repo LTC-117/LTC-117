@@ -21,7 +21,6 @@
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/debian/debian-original.svg" title="Debian Linux"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" title="Git"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sdl/sdl-original.svg" title="SDL2"/></code>
-<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opengl/opengl-original.svg" title="OpenGL"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/qt/qt-original.svg" title="Qt"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" title="Django"/></code>
 
