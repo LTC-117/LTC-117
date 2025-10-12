@@ -9,7 +9,7 @@
 ---
 
 ## 💻 Stacks
-<code><img width="30px" src="resources/C_Programming_Language.png" title="The C Programming Language"/></code>
+<code><img width="36px" src="resources/C_Programming_Language.png" title="The C Programming Language"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" title="The C++ Programming Language"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/lua/lua-original.svg" title="Lua"/></code>
