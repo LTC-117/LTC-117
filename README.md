@@ -1,4 +1,4 @@
-[![MasterHead]](https://github.com/LTC-117/LTC-117/blob/main/resources/my_banner.png)(https://github.com/LTC-117)
+[![MasterHead](https://github.com/LTC-117/LTC-117/blob/main/resources/my_banner.png)](https://github.com/LTC-117)
 
 <p align="center">
     Embedded Systems | Graphics Programming | OS Development | Backend Development
