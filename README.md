@@ -2,6 +2,16 @@
 
 ---
 
+## 🕹️ Experience
+<p align="left">
+    · Embedded Firmware, Drivers and RTOS Development
+    · Kernel Development and Maintenance
+    · 2D and 3D Graphics Programming
+    · Backend Web Development
+</p>
+
+---
+
 ## 💻 Stacks
 <code><img width="36px" src="resources/C_Programming_Language.png" title="The C Programming Language"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" title="The C++ Programming Language"/></code>
