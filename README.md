@@ -1,4 +1,4 @@
-[![MasterHead](https://github.com/LTC-117/LTC-117/blob/main/resources/my_banner.png)](https://github.com/LTC-117)
+[![MasterHead](./resources/my_banner.png)](https://github.com/LTC-117)
 
 ---
 
@@ -16,7 +16,7 @@
 ---
 
 ## 💻 Stacks
-<code><img width="36px" src="resources/C_Programming_Language.png" title="The C Programming Language"/></code>
+<code><img width="36px" src="./resources/C_Programming_Language.png" title="The C Programming Language"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" title="The C++ Programming Language"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/lua/lua-original.svg" title="Lua"/></code>
@@ -28,7 +28,7 @@
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/debian/debian-original.svg" title="Debian Linux"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" title="Git"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sdl/sdl-original.svg" title="SDL2"/></code>
-<code><img width="40px" src="https://github.com/LTC-117/LTC-117/blob/main/resources/Raylib--Streamline-Simple-Icons.svg" fill="#ffffff" title="Raylib"/></code>
+<code><img width="40px" src="./resources/Raylib--Streamline-Simple-Icons.svg" fill="#ffffff" title="Raylib"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/qt/qt-original.svg" title="Qt"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" title="Django"/></code>
 
