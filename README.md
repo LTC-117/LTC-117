@@ -4,7 +4,8 @@
 
 ## 🕹️ Experience
 <p align="center">
-    · Embedded Firmware, Drivers and RTOS Development 
+    · Embedded Firmware
+    · Device Drivers and RTOS Development 
     · Kernel Development and Maintenance 
     · 2D and 3D Graphics Programming 
     · Desktop Applications 
