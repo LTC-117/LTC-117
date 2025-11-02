@@ -10,7 +10,6 @@
     · 2D and 3D Graphics Programming 
     · Desktop Applications 
     · Command Line Interface 
-    · Backend Web Development 
     ·
 </p>
 
