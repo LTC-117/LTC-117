@@ -1,4 +1,4 @@
-[![MasterHead](./resources/my_banner.png)](https://github.com/LTC-117)
+[![MasterHead](./resources/banner(4).png)](https://github.com/LTC-117)
 
 ---
 
