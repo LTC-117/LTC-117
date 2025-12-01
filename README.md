@@ -36,8 +36,8 @@
 
 ## 📊 Statistics
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LTC-117&show_icons=true&theme=transparent&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LTC-117&layout=compact&langs_count=8&theme=transparent&exclude_repo=linux_core"/>
+  <img height="180em" src="https://ltc117-readme-stats.vercel.app/api?username=LTC-117&show_icons=true&theme=transparent&count_private=true" />
+  <img height="180em" src="https://ltc117-readme-stats.vercel.app/api/top-langs/?username=LTC-117&layout=compact&langs_count=8&theme=transparent&exclude_repo=linux_core"/>
 </div>
 
 ---
